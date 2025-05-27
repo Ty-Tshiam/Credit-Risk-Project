@@ -442,8 +442,8 @@ results
 from sqlalchemy import create_engine 
 server = 'dahomey.database.windows.net'
 database = 'Stock Data'
-username = 'ttshiamala'
-password = 'Bear8486!?'
+username = '****'
+password = '****'
 driver = '{ODBC Driver 18 for SQL Server}'
 
 conn_url = f'mssql+pyodbc://{username}:{password}@{server}/{database}?driver=ODBC+Driver+18+for+SQL+Server'
