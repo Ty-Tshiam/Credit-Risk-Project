@@ -1,3 +1,5 @@
 .env
 config.json
 CRfile.py
+spark-warehouse
+Calculations.parquet

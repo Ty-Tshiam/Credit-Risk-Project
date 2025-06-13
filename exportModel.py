@@ -1,4 +1,3 @@
-import os
 from azureml.core import Workspace
 from azureml.core.model import Model 
 
